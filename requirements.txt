@@ -8,3 +8,4 @@ scipy
 gdown
 onnxruntime
 datasets
+pyarrow
