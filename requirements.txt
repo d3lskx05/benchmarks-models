@@ -1,0 +1,23 @@
+# Основные библиотеки
+streamlit==1.36.0
+pandas==2.2.2
+numpy==1.26.4
+psutil==5.9.8
+
+# Hugging Face
+transformers==4.41.2
+sentence-transformers==3.0.1
+huggingface-hub==0.23.4
+datasets==2.20.0
+
+# Для стабильности с datasets
+pyarrow==14.0.2
+
+# ONNX и квантизация
+onnx==1.16.0
+onnxruntime==1.18.0
+
+# Прочее
+gdown==5.1.0
+scikit-learn==1.5.0
+scipy==1.13.1
